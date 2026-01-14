@@ -12,10 +12,8 @@ You can **increment, decrement, and reset** the counter easily.
 
 ## Technologies Used
 
-HTML
-
-CSS
-
-JavaScript
+- HTML
+- CSS
+- JavaScript
 
 
