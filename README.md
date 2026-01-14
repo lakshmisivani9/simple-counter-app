@@ -10,8 +10,9 @@ You can **increment, decrement, and reset** the counter easily.
 - Reset the counter to zero
 - Simple and clean design
 
-##Technologies Used
+## Technologies Used
 
 HTML
-CSS
+CSS1
 JavaScript
+
