@@ -1,0 +1,38 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    margin-top: 13%; 
+}
+
+.container {
+    width: 30%;
+    height: 40%;
+    margin: auto;
+    text-align: center;
+    border: 5px solid black;
+    padding: 20px;
+    border-radius: 30px;
+    background-color: rgb(209, 226, 220);
+    padding-bottom: 30px;
+}
+
+h2 {
+    color: rgb(26, 9, 180);
+    font-size: 25px;
+    text-align: center;
+}
+
+h3 {
+    color: rgb(187, 14, 86);
+    font-size: 30PX;
+}
+
+button {
+    cursor: pointer;
+    background-color: rgb(219, 160, 196);
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 15px;
+}
